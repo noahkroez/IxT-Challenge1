@@ -84,7 +84,7 @@ section.section1 aside h3 a:hover {
 }
 
 section.section1 aside .content.content1 {
-    background-image: url(arpanet.jpg);
+    background-image: url("../images/arpanet.jpg");
     background-size: 155px 155px;
     padding: 160px 0px 10px 0px;
     background-position: top center;
@@ -92,56 +92,56 @@ section.section1 aside .content.content1 {
 }
 
 section.section1 aside .content.content2 {
-    background-image: url(eunet.jpg);
+    background-image: url("../images/eunet.jpg");
     background-size: 155px 155px;
     padding: 160px 0px 10px 0px;
     background-position: top center;
 }
 
 section.section1 aside .content.content3 {
-    background-image: url(nl.png);
+    background-image: url("../images/nl.png");
     background-size: 155px 155px;
     padding: 160px 0px 10px 0px;
     background-position: top center;
 }
 
 section.section1 aside .content.content4 {
-    background-image: url(Lycos.jpg);
+    background-image: url("../images/Lycos.jpg");
     background-size: 155px 155px;
     padding: 160px 0px 10px 0px;
     background-position: top center;
 }
 
 section.section1 aside .content.content5 {
-    background-image: url(webshop.jpg);
+    background-image: url("../images/webshop.jpg");
     background-size: 155px 155px;
     padding: 160px 0px 10px 0px;
     background-position: top center;
 }
 
 section.section1 aside .content.content6 {
-    background-image: url(SIXDEGREES.jpg);
+    background-image: url("../images/SIXDEGREES.jpg");
     background-size: 155px 155px;
     padding: 160px 0px 10px 0px;
     background-position: top center;
 }
 
 section.section1 aside .content.content7 {
-    background-image: url(wifi.png);
+    background-image: url("../images/wifi.png");
     background-size: 155px 155px;
     padding: 160px 0px 10px 0px;
     background-position: top center;
 }
 
 section.section1 aside .content.content8 {
-    background-image: url(iphone.jpg);
+    background-image: url("../images/iphone.jpg");
     background-size: 155px 155px;
     padding: 160px 0px 10px 0px;
     background-position: top center;
 }
 
 section.section1 aside .content.content9 {
-    background-image: url(miljard.png);
+    background-image: url("../images/miljard.png");
     background-size: 155px 155px;
     padding: 160px 0px 10px 0px;
     background-position: top center;
